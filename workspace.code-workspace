@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../devtron"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "java-script"
+	}
+}
